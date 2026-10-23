@@ -1,0 +1,5 @@
+import type { ReactNode } from 'react';
+export function SectionLabel({children}:{children:ReactNode}) { return <p className="eyebrow">{children}</p> }
+export function ArrowLink({href,children}:{href:string;children:ReactNode}) {return <a className="arrow-link" href={href}>{children}<span aria-hidden="true">↗</span></a>}
+export function ReviewInvitation() {return <section className="invitation"><div className="wrap"><div><SectionLabel>Start with a conversation</SectionLabel><h2>Let's talk about how<br/>your business gets paid.</h2></div><div><a className="button button-light" href="/statement-review/">Request a Statement Review <span aria-hidden="true">↗</span></a><a className="light-link" href="tel:+18885731133">Or call 888-573-1133</a></div></div></section>}
+export function PageIntro({label,title,children}:{label:string;title:string;children:ReactNode}) {return <header className="page-intro wrap"><SectionLabel>{label}</SectionLabel><h1>{title}</h1><div className="intro-copy">{children}</div></header>}

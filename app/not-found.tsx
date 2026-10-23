@@ -1,0 +1,1 @@
+export default function NotFound(){return <main id="main" className="wrap not-found"><h1>We couldn’t find that page.</h1><p>Head back to Merchant Pro or contact us for help.</p><a className="button" href="/">Return home ↗</a></main>}

@@ -1,0 +1,212 @@
+[
+  {
+    "source": "/about-us",
+    "destination": "/about",
+    "permanent": true
+  },
+  {
+    "source": "/ach-and-electronic-checks",
+    "destination": "/solutions#online",
+    "permanent": true
+  },
+  {
+    "source": "/authorize-net",
+    "destination": "/solutions#online",
+    "permanent": true
+  },
+  {
+    "source": "/authorize-net-retail",
+    "destination": "/solutions#online",
+    "permanent": true
+  },
+  {
+    "source": "/blog",
+    "destination": "/resources",
+    "permanent": true
+  },
+  {
+    "source": "/clover-POS-systems-credit-card-processing-merchantpro",
+    "destination": "/solutions#counter",
+    "permanent": true
+  },
+  {
+    "source": "/clover-mini",
+    "destination": "/solutions#counter",
+    "permanent": true
+  },
+  {
+    "source": "/clover-mobile",
+    "destination": "/solutions#counter",
+    "permanent": true
+  },
+  {
+    "source": "/clover-station",
+    "destination": "/solutions#counter",
+    "permanent": true
+  },
+  {
+    "source": "/contact-us",
+    "destination": "/contact",
+    "permanent": true
+  },
+  {
+    "source": "/credit-card-processing",
+    "destination": "/solutions",
+    "permanent": true
+  },
+  {
+    "source": "/credit-card-processing-services",
+    "destination": "/solutions",
+    "permanent": true
+  },
+  {
+    "source": "/developers",
+    "destination": "/solutions#online",
+    "permanent": true
+  },
+  {
+    "source": "/faq",
+    "destination": "/statement-review",
+    "permanent": true
+  },
+  {
+    "source": "/hotel-and-hospitality",
+    "destination": "/industries#restaurants",
+    "permanent": true
+  },
+  {
+    "source": "/hotel-loadge",
+    "destination": "/industries#restaurants",
+    "permanent": true
+  },
+  {
+    "source": "/internet-merchant",
+    "destination": "/solutions#online",
+    "permanent": true
+  },
+  {
+    "source": "/merchant-credit-card-processing",
+    "destination": "/solutions",
+    "permanent": true
+  },
+  {
+    "source": "/mobile-merchant",
+    "destination": "/solutions#mobile",
+    "permanent": true
+  },
+  {
+    "source": "/moto-merchant-service",
+    "destination": "/solutions#online",
+    "permanent": true
+  },
+  {
+    "source": "/online-payment-processing",
+    "destination": "/solutions#online",
+    "permanent": true
+  },
+  {
+    "source": "/payment-gateway",
+    "destination": "/solutions#online",
+    "permanent": true
+  },
+  {
+    "source": "/payment-gateway-online",
+    "destination": "/solutions#online",
+    "permanent": true
+  },
+  {
+    "source": "/payment-gateway-retail",
+    "destination": "/solutions#online",
+    "permanent": true
+  },
+  {
+    "source": "/payment-processing-usa",
+    "destination": "/solutions",
+    "permanent": true
+  },
+  {
+    "source": "/point-of-sale",
+    "destination": "/solutions#counter",
+    "permanent": true
+  },
+  {
+    "source": "/point-of-sale-by-clover-merchantpro-services",
+    "destination": "/solutions#counter",
+    "permanent": true
+  },
+  {
+    "source": "/pos-quick-service-restaurants",
+    "destination": "/industries#restaurants",
+    "permanent": true
+  },
+  {
+    "source": "/pos-retail-merchant",
+    "destination": "/industries#retail",
+    "permanent": true
+  },
+  {
+    "source": "/pos-system",
+    "destination": "/solutions#counter",
+    "permanent": true
+  },
+  {
+    "source": "/quick-service-restaurant-merchant-services",
+    "destination": "/industries#restaurants",
+    "permanent": true
+  },
+  {
+    "source": "/recurring-billing-and-memberships",
+    "destination": "/solutions#online",
+    "permanent": true
+  },
+  {
+    "source": "/restaurant-merchant-services",
+    "destination": "/industries#restaurants",
+    "permanent": true
+  },
+  {
+    "source": "/retail-merchant-services",
+    "destination": "/industries#retail",
+    "permanent": true
+  },
+  {
+    "source": "/reviews",
+    "destination": "/#testimonials",
+    "permanent": true
+  },
+  {
+    "source": "/shopping-cart-integration",
+    "destination": "/solutions#online",
+    "permanent": true
+  },
+  {
+    "source": "/success-stories",
+    "destination": "/#testimonials",
+    "permanent": true
+  },
+  {
+    "source": "/terminal",
+    "destination": "/solutions#counter",
+    "permanent": true
+  },
+  {
+    "source": "/testimonials",
+    "destination": "/#testimonials",
+    "permanent": true
+  },
+  {
+    "source": "/virtual-terminal",
+    "destination": "/solutions#online",
+    "permanent": true
+  },
+  {
+    "source": "/wireless-terminals",
+    "destination": "/solutions#mobile",
+    "permanent": true
+  },
+  {
+    "source": "/wireless-terminals-terminals",
+    "destination": "/solutions#mobile",
+    "permanent": true
+  }
+]
